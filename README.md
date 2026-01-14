@@ -1,5 +1,7 @@
 # Voice-to-LLM Models
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Xa338pS2cJpgKaRZ2-oeElKMWq6Ub7n5?usp=sharing)
+
 This repository contains a Jupyter Notebook for Google Colab that demonstrates a complete **Speech-to-Text (STT) to Large Language Model (LLM)** pipeline. It allows you to record your voice directly in the browser, transcribe it using state-of-the-art models (including Indian languages), and get a response from a powerful LLM.
 
 ## 🚀 Features
